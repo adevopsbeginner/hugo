@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cloud on A DevOps Engineer</title>
+    <link>http://localhost:1313/tags/cloud/</link>
+    <description>Recent content in Cloud on A DevOps Engineer</description>
+    <generator>Hugo -- 0.147.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 May 2025 16:46:54 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aws</title>
+      <link>http://localhost:1313/aws/</link>
+      <pubDate>Tue, 27 May 2025 16:46:54 +1000</pubDate>
+      <guid>http://localhost:1313/aws/</guid>
+      <description>AWS cloud</description>
+    </item>
+  </channel>
+</rss>

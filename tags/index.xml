@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on A DevOps Engineer</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on A DevOps Engineer</description>
+    <generator>Hugo -- 0.147.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 May 2025 16:47:08 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devops</title>
+      <link>http://localhost:1313/tags/devops/</link>
+      <pubDate>Tue, 27 May 2025 16:47:08 +1000</pubDate>
+      <guid>http://localhost:1313/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IaC</title>
+      <link>http://localhost:1313/tags/iac/</link>
+      <pubDate>Tue, 27 May 2025 16:47:08 +1000</pubDate>
+      <guid>http://localhost:1313/tags/iac/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terraform</title>
+      <link>http://localhost:1313/tags/terraform/</link>
+      <pubDate>Tue, 27 May 2025 16:47:08 +1000</pubDate>
+      <guid>http://localhost:1313/tags/terraform/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ansible</title>
+      <link>http://localhost:1313/tags/ansible/</link>
+      <pubDate>Tue, 27 May 2025 16:47:04 +1000</pubDate>
+      <guid>http://localhost:1313/tags/ansible/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>http://localhost:1313/tags/automation/</link>
+      <pubDate>Tue, 27 May 2025 16:47:04 +1000</pubDate>
+      <guid>http://localhost:1313/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Config Management</title>
+      <link>http://localhost:1313/tags/config-management/</link>
+      <pubDate>Tue, 27 May 2025 16:47:04 +1000</pubDate>
+      <guid>http://localhost:1313/tags/config-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sysadm</title>
+      <link>http://localhost:1313/tags/sysadm/</link>
+      <pubDate>Tue, 27 May 2025 16:47:04 +1000</pubDate>
+      <guid>http://localhost:1313/tags/sysadm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AWS</title>
+      <link>http://localhost:1313/tags/aws/</link>
+      <pubDate>Tue, 27 May 2025 16:46:54 +1000</pubDate>
+      <guid>http://localhost:1313/tags/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud</title>
+      <link>http://localhost:1313/tags/cloud/</link>
+      <pubDate>Tue, 27 May 2025 16:46:54 +1000</pubDate>
+      <guid>http://localhost:1313/tags/cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Algorithm</title>
+      <link>http://localhost:1313/tags/algorithm/</link>
+      <pubDate>Tue, 27 May 2025 16:46:47 +1000</pubDate>
+      <guid>http://localhost:1313/tags/algorithm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Structure</title>
+      <link>http://localhost:1313/tags/data-structure/</link>
+      <pubDate>Tue, 27 May 2025 16:46:47 +1000</pubDate>
+      <guid>http://localhost:1313/tags/data-structure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Tue, 27 May 2025 16:46:47 +1000</pubDate>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scripting</title>
+      <link>http://localhost:1313/tags/scripting/</link>
+      <pubDate>Tue, 27 May 2025 16:46:47 +1000</pubDate>
+      <guid>http://localhost:1313/tags/scripting/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

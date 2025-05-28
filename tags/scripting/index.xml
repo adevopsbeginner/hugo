@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Scripting on A DevOps Engineer</title>
-    <link>http://localhost:1313/tags/scripting/</link>
+    <link>https://www.adevopsbeginner.site/tags/scripting/</link>
     <description>Recent content in Scripting on A DevOps Engineer</description>
-    <generator>Hugo -- 0.147.5</generator>
+    <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 May 2025 16:46:47 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/scripting/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.adevopsbeginner.site/tags/scripting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/python/</link>
+      <link>https://www.adevopsbeginner.site/python/</link>
       <pubDate>Tue, 27 May 2025 16:46:47 +1000</pubDate>
-      <guid>http://localhost:1313/python/</guid>
+      <guid>https://www.adevopsbeginner.site/python/</guid>
       <description>Algorithm &amp;amp; Data Structure</description>
     </item>
   </channel>

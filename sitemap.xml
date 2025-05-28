@@ -2,100 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.adevopsbeginner.site/</loc>
     <lastmod>2025-05-27T16:47:08+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/devops/</loc>
+    <loc>https://www.adevopsbeginner.site/tags/devops/</loc>
     <lastmod>2025-05-27T16:47:08+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/iac/</loc>
+    <loc>https://www.adevopsbeginner.site/tags/iac/</loc>
     <lastmod>2025-05-27T16:47:08+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.adevopsbeginner.site/tags/</loc>
     <lastmod>2025-05-27T16:47:08+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/terraform/</loc>
+    <loc>https://www.adevopsbeginner.site/tags/terraform/</loc>
     <lastmod>2025-05-27T16:47:08+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/terraform/</loc>
+    <loc>https://www.adevopsbeginner.site/terraform/</loc>
     <lastmod>2025-05-27T16:47:08+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ansible/</loc>
+    <loc>https://www.adevopsbeginner.site/ansible/</loc>
     <lastmod>2025-05-27T16:47:04+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ansible/</loc>
+    <loc>https://www.adevopsbeginner.site/tags/ansible/</loc>
     <lastmod>2025-05-27T16:47:04+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/automation/</loc>
+    <loc>https://www.adevopsbeginner.site/tags/automation/</loc>
     <lastmod>2025-05-27T16:47:04+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/config-management/</loc>
+    <loc>https://www.adevopsbeginner.site/tags/config-management/</loc>
     <lastmod>2025-05-27T16:47:04+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sysadm/</loc>
+    <loc>https://www.adevopsbeginner.site/tags/sysadm/</loc>
     <lastmod>2025-05-27T16:47:04+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/k8s/</loc>
+    <loc>https://www.adevopsbeginner.site/k8s/</loc>
     <lastmod>2025-05-27T16:47:00+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aws/</loc>
+    <loc>https://www.adevopsbeginner.site/aws/</loc>
     <lastmod>2025-05-27T16:46:54+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/aws/</loc>
+    <loc>https://www.adevopsbeginner.site/tags/aws/</loc>
     <lastmod>2025-05-27T16:46:54+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cloud/</loc>
+    <loc>https://www.adevopsbeginner.site/tags/cloud/</loc>
     <lastmod>2025-05-27T16:46:54+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/linux/</loc>
+    <loc>https://www.adevopsbeginner.site/linux/</loc>
     <lastmod>2025-05-27T16:46:51+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/algorithm/</loc>
+    <loc>https://www.adevopsbeginner.site/tags/algorithm/</loc>
     <lastmod>2025-05-27T16:46:47+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/data-structure/</loc>
+    <loc>https://www.adevopsbeginner.site/tags/data-structure/</loc>
     <lastmod>2025-05-27T16:46:47+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/python/</loc>
+    <loc>https://www.adevopsbeginner.site/python/</loc>
     <lastmod>2025-05-27T16:46:47+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://www.adevopsbeginner.site/tags/python/</loc>
     <lastmod>2025-05-27T16:46:47+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/scripting/</loc>
+    <loc>https://www.adevopsbeginner.site/tags/scripting/</loc>
     <lastmod>2025-05-27T16:46:47+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aws/uno/</loc>
+    <loc>https://www.adevopsbeginner.site/aws/uno/</loc>
     <lastmod>2025-05-20T20:26:59+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/linux/uno/</loc>
+    <loc>https://www.adevopsbeginner.site/linux/uno/</loc>
     <lastmod>2025-05-20T20:25:05+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/python/uno/</loc>
+    <loc>https://www.adevopsbeginner.site/python/uno/</loc>
     <lastmod>2025-05-20T20:25:00+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/k8s/uno/</loc>
+    <loc>https://www.adevopsbeginner.site/k8s/uno/</loc>
     <lastmod>2025-05-20T20:24:53+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ansible/uno/</loc>
+    <loc>https://www.adevopsbeginner.site/ansible/uno/</loc>
     <lastmod>2025-05-20T20:24:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/terraform/uno/</loc>
+    <loc>https://www.adevopsbeginner.site/terraform/uno/</loc>
     <lastmod>2025-05-20T20:24:36+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/iac/aws-terraform-ansible-demo/</loc>
+    <loc>https://www.adevopsbeginner.site/iac/aws-terraform-ansible-demo/</loc>
     <lastmod>2025-05-20T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/terraform/first-post/</loc>
+    <loc>https://www.adevopsbeginner.site/terraform/first-post/</loc>
     <lastmod>2025-05-19T19:20:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ansible/ec2/</loc>
+    <loc>https://www.adevopsbeginner.site/ansible/ec2/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://www.adevopsbeginner.site/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.adevopsbeginner.site/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://www.adevopsbeginner.site/contact/</loc>
   </url>
 </urlset>

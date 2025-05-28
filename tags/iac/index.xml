@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>IaC on A DevOps Engineer</title>
-    <link>http://localhost:1313/tags/iac/</link>
+    <link>https://www.adevopsbeginner.site/tags/iac/</link>
     <description>Recent content in IaC on A DevOps Engineer</description>
-    <generator>Hugo -- 0.147.5</generator>
+    <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 May 2025 16:47:08 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/iac/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.adevopsbeginner.site/tags/iac/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terraform</title>
-      <link>http://localhost:1313/terraform/</link>
+      <link>https://www.adevopsbeginner.site/terraform/</link>
       <pubDate>Tue, 27 May 2025 16:47:08 +1000</pubDate>
-      <guid>http://localhost:1313/terraform/</guid>
+      <guid>https://www.adevopsbeginner.site/terraform/</guid>
       <description>Infrastructure as Code</description>
     </item>
   </channel>

@@ -1,102 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on A DevOps Beginner</title>
-    <link>https://eks.adevopsbeginner.site/tags/</link>
-    <description>Recent content in Tags on A DevOps Beginner</description>
+    <title>Tags on A DevOps Engineer</title>
+    <link>https://www.adevopsbeginner.site/tags/</link>
+    <description>Recent content in Tags on A DevOps Engineer</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 May 2025 16:47:08 +1000</lastBuildDate>
-    <atom:link href="https://eks.adevopsbeginner.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.adevopsbeginner.site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Devops</title>
-      <link>https://eks.adevopsbeginner.site/tags/devops/</link>
+      <link>https://www.adevopsbeginner.site/tags/devops/</link>
       <pubDate>Tue, 27 May 2025 16:47:08 +1000</pubDate>
-      <guid>https://eks.adevopsbeginner.site/tags/devops/</guid>
+      <guid>https://www.adevopsbeginner.site/tags/devops/</guid>
       <description></description>
     </item>
     <item>
       <title>IaC</title>
-      <link>https://eks.adevopsbeginner.site/tags/iac/</link>
+      <link>https://www.adevopsbeginner.site/tags/iac/</link>
       <pubDate>Tue, 27 May 2025 16:47:08 +1000</pubDate>
-      <guid>https://eks.adevopsbeginner.site/tags/iac/</guid>
+      <guid>https://www.adevopsbeginner.site/tags/iac/</guid>
       <description></description>
     </item>
     <item>
       <title>Terraform</title>
-      <link>https://eks.adevopsbeginner.site/tags/terraform/</link>
+      <link>https://www.adevopsbeginner.site/tags/terraform/</link>
       <pubDate>Tue, 27 May 2025 16:47:08 +1000</pubDate>
-      <guid>https://eks.adevopsbeginner.site/tags/terraform/</guid>
+      <guid>https://www.adevopsbeginner.site/tags/terraform/</guid>
       <description></description>
     </item>
     <item>
       <title>Ansible</title>
-      <link>https://eks.adevopsbeginner.site/tags/ansible/</link>
+      <link>https://www.adevopsbeginner.site/tags/ansible/</link>
       <pubDate>Tue, 27 May 2025 16:47:04 +1000</pubDate>
-      <guid>https://eks.adevopsbeginner.site/tags/ansible/</guid>
+      <guid>https://www.adevopsbeginner.site/tags/ansible/</guid>
       <description></description>
     </item>
     <item>
       <title>Automation</title>
-      <link>https://eks.adevopsbeginner.site/tags/automation/</link>
+      <link>https://www.adevopsbeginner.site/tags/automation/</link>
       <pubDate>Tue, 27 May 2025 16:47:04 +1000</pubDate>
-      <guid>https://eks.adevopsbeginner.site/tags/automation/</guid>
+      <guid>https://www.adevopsbeginner.site/tags/automation/</guid>
       <description></description>
     </item>
     <item>
       <title>Config Management</title>
-      <link>https://eks.adevopsbeginner.site/tags/config-management/</link>
+      <link>https://www.adevopsbeginner.site/tags/config-management/</link>
       <pubDate>Tue, 27 May 2025 16:47:04 +1000</pubDate>
-      <guid>https://eks.adevopsbeginner.site/tags/config-management/</guid>
+      <guid>https://www.adevopsbeginner.site/tags/config-management/</guid>
       <description></description>
     </item>
     <item>
       <title>Sysadm</title>
-      <link>https://eks.adevopsbeginner.site/tags/sysadm/</link>
+      <link>https://www.adevopsbeginner.site/tags/sysadm/</link>
       <pubDate>Tue, 27 May 2025 16:47:04 +1000</pubDate>
-      <guid>https://eks.adevopsbeginner.site/tags/sysadm/</guid>
+      <guid>https://www.adevopsbeginner.site/tags/sysadm/</guid>
       <description></description>
     </item>
     <item>
       <title>AWS</title>
-      <link>https://eks.adevopsbeginner.site/tags/aws/</link>
+      <link>https://www.adevopsbeginner.site/tags/aws/</link>
       <pubDate>Tue, 27 May 2025 16:46:54 +1000</pubDate>
-      <guid>https://eks.adevopsbeginner.site/tags/aws/</guid>
+      <guid>https://www.adevopsbeginner.site/tags/aws/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloud</title>
-      <link>https://eks.adevopsbeginner.site/tags/cloud/</link>
+      <link>https://www.adevopsbeginner.site/tags/cloud/</link>
       <pubDate>Tue, 27 May 2025 16:46:54 +1000</pubDate>
-      <guid>https://eks.adevopsbeginner.site/tags/cloud/</guid>
+      <guid>https://www.adevopsbeginner.site/tags/cloud/</guid>
       <description></description>
     </item>
     <item>
       <title>Algorithm</title>
-      <link>https://eks.adevopsbeginner.site/tags/algorithm/</link>
+      <link>https://www.adevopsbeginner.site/tags/algorithm/</link>
       <pubDate>Tue, 27 May 2025 16:46:47 +1000</pubDate>
-      <guid>https://eks.adevopsbeginner.site/tags/algorithm/</guid>
+      <guid>https://www.adevopsbeginner.site/tags/algorithm/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Structure</title>
-      <link>https://eks.adevopsbeginner.site/tags/data-structure/</link>
+      <link>https://www.adevopsbeginner.site/tags/data-structure/</link>
       <pubDate>Tue, 27 May 2025 16:46:47 +1000</pubDate>
-      <guid>https://eks.adevopsbeginner.site/tags/data-structure/</guid>
+      <guid>https://www.adevopsbeginner.site/tags/data-structure/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://eks.adevopsbeginner.site/tags/python/</link>
+      <link>https://www.adevopsbeginner.site/tags/python/</link>
       <pubDate>Tue, 27 May 2025 16:46:47 +1000</pubDate>
-      <guid>https://eks.adevopsbeginner.site/tags/python/</guid>
+      <guid>https://www.adevopsbeginner.site/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Scripting</title>
-      <link>https://eks.adevopsbeginner.site/tags/scripting/</link>
+      <link>https://www.adevopsbeginner.site/tags/scripting/</link>
       <pubDate>Tue, 27 May 2025 16:46:47 +1000</pubDate>
-      <guid>https://eks.adevopsbeginner.site/tags/scripting/</guid>
+      <guid>https://www.adevopsbeginner.site/tags/scripting/</guid>
       <description></description>
     </item>
   </channel>

@@ -6,8 +6,15 @@
     <description>Recent content in Devops on A DevOps Engineer</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 16:47:08 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 14:31:00 +1000</lastBuildDate>
     <atom:link href="https://www.adevopsbeginner.site/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GCP</title>
+      <link>https://www.adevopsbeginner.site/gcp/</link>
+      <pubDate>Wed, 09 Jul 2025 14:31:00 +1000</pubDate>
+      <guid>https://www.adevopsbeginner.site/gcp/</guid>
+      <description>GCP Cloud</description>
+    </item>
     <item>
       <title>Terraform</title>
       <link>https://www.adevopsbeginner.site/terraform/</link>

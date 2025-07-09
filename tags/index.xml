@@ -6,13 +6,27 @@
     <description>Recent content in Tags on A DevOps Engineer</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 16:47:08 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 14:31:00 +1000</lastBuildDate>
     <atom:link href="https://www.adevopsbeginner.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud</title>
+      <link>https://www.adevopsbeginner.site/tags/cloud/</link>
+      <pubDate>Wed, 09 Jul 2025 14:31:00 +1000</pubDate>
+      <guid>https://www.adevopsbeginner.site/tags/cloud/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Devops</title>
       <link>https://www.adevopsbeginner.site/tags/devops/</link>
-      <pubDate>Tue, 27 May 2025 16:47:08 +1000</pubDate>
+      <pubDate>Wed, 09 Jul 2025 14:31:00 +1000</pubDate>
       <guid>https://www.adevopsbeginner.site/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gcp</title>
+      <link>https://www.adevopsbeginner.site/tags/gcp/</link>
+      <pubDate>Wed, 09 Jul 2025 14:31:00 +1000</pubDate>
+      <guid>https://www.adevopsbeginner.site/tags/gcp/</guid>
       <description></description>
     </item>
     <item>
@@ -62,13 +76,6 @@
       <link>https://www.adevopsbeginner.site/tags/aws/</link>
       <pubDate>Tue, 27 May 2025 16:46:54 +1000</pubDate>
       <guid>https://www.adevopsbeginner.site/tags/aws/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cloud</title>
-      <link>https://www.adevopsbeginner.site/tags/cloud/</link>
-      <pubDate>Tue, 27 May 2025 16:46:54 +1000</pubDate>
-      <guid>https://www.adevopsbeginner.site/tags/cloud/</guid>
       <description></description>
     </item>
     <item>

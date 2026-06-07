@@ -1,107 +1,101 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.adevopsbeginner.site/</loc>
+    <loc>http://devops.christmas/tags/cloud/</loc>
     <lastmod>2025-07-09T14:31:00+10:00</lastmod>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/tags/cloud/</loc>
+    <loc>http://devops.christmas/tags/devops/</loc>
     <lastmod>2025-07-09T14:31:00+10:00</lastmod>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/tags/devops/</loc>
+    <loc>http://devops.christmas/</loc>
     <lastmod>2025-07-09T14:31:00+10:00</lastmod>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/tags/gcp/</loc>
+    <loc>http://devops.christmas/tags/gcp/</loc>
     <lastmod>2025-07-09T14:31:00+10:00</lastmod>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/gcp/</loc>
+    <loc>http://devops.christmas/gcp/</loc>
     <lastmod>2025-07-09T14:31:00+10:00</lastmod>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/tags/</loc>
+    <loc>http://devops.christmas/tags/</loc>
     <lastmod>2025-07-09T14:31:00+10:00</lastmod>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/tags/iac/</loc>
-    <lastmod>2025-05-27T16:47:08+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/tags/terraform/</loc>
-    <lastmod>2025-05-27T16:47:08+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/terraform/</loc>
-    <lastmod>2025-05-27T16:47:08+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/ansible/</loc>
-    <lastmod>2025-05-27T16:47:04+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/tags/ansible/</loc>
-    <lastmod>2025-05-27T16:47:04+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/tags/automation/</loc>
-    <lastmod>2025-05-27T16:47:04+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/tags/config-management/</loc>
-    <lastmod>2025-05-27T16:47:04+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/tags/sysadm/</loc>
-    <lastmod>2025-05-27T16:47:04+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/k8s/</loc>
-    <lastmod>2025-05-27T16:47:00+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/aws/</loc>
-    <lastmod>2025-05-27T16:46:54+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/tags/aws/</loc>
-    <lastmod>2025-05-27T16:46:54+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/linux/</loc>
-    <lastmod>2025-05-27T16:46:51+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/tags/algorithm/</loc>
-    <lastmod>2025-05-27T16:46:47+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/tags/data-structure/</loc>
-    <lastmod>2025-05-27T16:46:47+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/python/</loc>
-    <lastmod>2025-05-27T16:46:47+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/tags/python/</loc>
-    <lastmod>2025-05-27T16:46:47+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/tags/scripting/</loc>
-    <lastmod>2025-05-27T16:46:47+10:00</lastmod>
-  </url><url>
-    <loc>https://www.adevopsbeginner.site/aws/uno/</loc>
+    <loc>http://devops.christmas/aws/</loc>
     <lastmod>2025-05-20T20:26:59+10:00</lastmod>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/linux/uno/</loc>
+    <loc>http://devops.christmas/aws/uno/</loc>
+    <lastmod>2025-05-20T20:26:59+10:00</lastmod>
+  </url><url>
+    <loc>http://devops.christmas/linux/</loc>
     <lastmod>2025-05-20T20:25:05+10:00</lastmod>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/python/uno/</loc>
+    <loc>http://devops.christmas/linux/uno/</loc>
+    <lastmod>2025-05-20T20:25:05+10:00</lastmod>
+  </url><url>
+    <loc>http://devops.christmas/python/</loc>
     <lastmod>2025-05-20T20:25:00+10:00</lastmod>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/k8s/uno/</loc>
+    <loc>http://devops.christmas/python/uno/</loc>
+    <lastmod>2025-05-20T20:25:00+10:00</lastmod>
+  </url><url>
+    <loc>http://devops.christmas/k8s/</loc>
     <lastmod>2025-05-20T20:24:53+10:00</lastmod>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/ansible/uno/</loc>
+    <loc>http://devops.christmas/k8s/uno/</loc>
+    <lastmod>2025-05-20T20:24:53+10:00</lastmod>
+  </url><url>
+    <loc>http://devops.christmas/ansible/</loc>
     <lastmod>2025-05-20T20:24:46+10:00</lastmod>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/terraform/uno/</loc>
+    <loc>http://devops.christmas/ansible/uno/</loc>
+    <lastmod>2025-05-20T20:24:46+10:00</lastmod>
+  </url><url>
+    <loc>http://devops.christmas/terraform/</loc>
     <lastmod>2025-05-20T20:24:36+10:00</lastmod>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/iac/aws-terraform-ansible-demo/</loc>
+    <loc>http://devops.christmas/terraform/uno/</loc>
+    <lastmod>2025-05-20T20:24:36+10:00</lastmod>
+  </url><url>
+    <loc>http://devops.christmas/tags/ansible/</loc>
     <lastmod>2025-05-20T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/terraform/first-post/</loc>
+    <loc>http://devops.christmas/tags/aws/</loc>
+    <lastmod>2025-05-20T14:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://devops.christmas/iac/aws-terraform-ansible-demo/</loc>
+    <lastmod>2025-05-20T14:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://devops.christmas/tags/terraform/</loc>
+    <lastmod>2025-05-20T14:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://devops.christmas/terraform/first-post/</loc>
     <lastmod>2025-05-19T19:20:46+10:00</lastmod>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/ansible/ec2/</loc>
+    <loc>http://devops.christmas/tags/automation/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/about/</loc>
+    <loc>http://devops.christmas/ansible/ec2/</loc>
+    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/categories/</loc>
+    <loc>http://devops.christmas/about/</loc>
   </url><url>
-    <loc>https://www.adevopsbeginner.site/contact/</loc>
+    <loc>http://devops.christmas/tags/algorithm/</loc>
+  </url><url>
+    <loc>http://devops.christmas/categories/</loc>
+  </url><url>
+    <loc>http://devops.christmas/tags/config-management/</loc>
+  </url><url>
+    <loc>http://devops.christmas/contact/</loc>
+  </url><url>
+    <loc>http://devops.christmas/tags/data-structure/</loc>
+  </url><url>
+    <loc>http://devops.christmas/tags/iac/</loc>
+  </url><url>
+    <loc>http://devops.christmas/tags/python/</loc>
+  </url><url>
+    <loc>http://devops.christmas/tags/scripting/</loc>
+  </url><url>
+    <loc>http://devops.christmas/tags/sysadm/</loc>
   </url>
 </urlset>

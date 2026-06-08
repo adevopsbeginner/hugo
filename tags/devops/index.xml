@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>DevOps on DevOps Kills Mess</title>
+    <title>Devops on DevOps Kills Mess</title>
     <link>http://devops.christmas/tags/devops/</link>
-    <description>Recent content in DevOps on DevOps Kills Mess</description>
+    <description>Recent content in Devops on DevOps Kills Mess</description>
     <generator>Hugo -- 0.162.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Jul 2025 14:31:00 +1000</lastBuildDate>
@@ -16,62 +16,46 @@
       <description>GCP Cloud</description>
     </item>
     <item>
-      <title>Uno</title>
-      <link>http://devops.christmas/aws/uno/</link>
-      <pubDate>Tue, 20 May 2025 20:26:59 +1000</pubDate>
-      <guid>http://devops.christmas/aws/uno/</guid>
-      <description>{{&amp;lt; youtube xEfVX7qro_M &amp;gt;}}</description>
+      <title>Terraform</title>
+      <link>http://devops.christmas/terraform/</link>
+      <pubDate>Tue, 27 May 2025 16:47:08 +1000</pubDate>
+      <guid>http://devops.christmas/terraform/</guid>
+      <description>Infrastructure as Code</description>
     </item>
     <item>
-      <title>Uno</title>
-      <link>http://devops.christmas/linux/uno/</link>
-      <pubDate>Tue, 20 May 2025 20:25:05 +1000</pubDate>
-      <guid>http://devops.christmas/linux/uno/</guid>
-      <description>xyz</description>
+      <title>Ansible</title>
+      <link>http://devops.christmas/ansible/</link>
+      <pubDate>Tue, 27 May 2025 16:47:04 +1000</pubDate>
+      <guid>http://devops.christmas/ansible/</guid>
+      <description>Config Management</description>
     </item>
     <item>
-      <title>Uno</title>
-      <link>http://devops.christmas/python/uno/</link>
-      <pubDate>Tue, 20 May 2025 20:25:00 +1000</pubDate>
-      <guid>http://devops.christmas/python/uno/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-			&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/xEfVX7qro_M?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-		&lt;/div&gt;</description>
+      <title>Kubernetes</title>
+      <link>http://devops.christmas/k8s/</link>
+      <pubDate>Tue, 27 May 2025 16:47:00 +1000</pubDate>
+      <guid>http://devops.christmas/k8s/</guid>
+      <description>Containerization, Docker, Helm</description>
     </item>
     <item>
-      <title>Uno</title>
-      <link>http://devops.christmas/k8s/uno/</link>
-      <pubDate>Tue, 20 May 2025 20:24:53 +1000</pubDate>
-      <guid>http://devops.christmas/k8s/uno/</guid>
-      <description>{{&amp;lt; youtube xEfVX7qro_M &amp;gt;}}</description>
+      <title>Aws</title>
+      <link>http://devops.christmas/aws/</link>
+      <pubDate>Tue, 27 May 2025 16:46:54 +1000</pubDate>
+      <guid>http://devops.christmas/aws/</guid>
+      <description>AWS cloud</description>
     </item>
     <item>
-      <title>Uno</title>
-      <link>http://devops.christmas/ansible/uno/</link>
-      <pubDate>Tue, 20 May 2025 20:24:46 +1000</pubDate>
-      <guid>http://devops.christmas/ansible/uno/</guid>
-      <description>description</description>
+      <title>Linux</title>
+      <link>http://devops.christmas/linux/</link>
+      <pubDate>Tue, 27 May 2025 16:46:51 +1000</pubDate>
+      <guid>http://devops.christmas/linux/</guid>
+      <description>Linux System Administration</description>
     </item>
     <item>
-      <title>Uno</title>
-      <link>http://devops.christmas/terraform/uno/</link>
-      <pubDate>Tue, 20 May 2025 20:24:36 +1000</pubDate>
-      <guid>http://devops.christmas/terraform/uno/</guid>
-      <description>uno</description>
-    </item>
-    <item>
-      <title>AWS Terraform Ansible Demo</title>
-      <link>http://devops.christmas/iac/aws-terraform-ansible-demo/</link>
-      <pubDate>Tue, 20 May 2025 14:30:00 +0800</pubDate>
-      <guid>http://devops.christmas/iac/aws-terraform-ansible-demo/</guid>
-      <description>Watch my step-by-step demo combining Terraform and Ansible to deploy AWS infrastructure.</description>
-    </item>
-    <item>
-      <title>AWS EC2 Automation</title>
-      <link>http://devops.christmas/ansible/ec2/</link>
-      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://devops.christmas/ansible/ec2/</guid>
-      <description>How I set up a simple DevOps lab using Vagrant, Ansible, and Docker.</description>
+      <title>Python</title>
+      <link>http://devops.christmas/python/</link>
+      <pubDate>Tue, 27 May 2025 16:46:47 +1000</pubDate>
+      <guid>http://devops.christmas/python/</guid>
+      <description>Algorithm &amp;amp; Data Structure</description>
     </item>
   </channel>
 </rss>

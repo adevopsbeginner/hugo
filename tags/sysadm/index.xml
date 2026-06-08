@@ -6,6 +6,14 @@
     <description>Recent content in Sysadm on DevOps Kills Mess</description>
     <generator>Hugo -- 0.162.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 27 May 2025 16:47:04 +1000</lastBuildDate>
     <atom:link href="http://devops.christmas/tags/sysadm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ansible</title>
+      <link>http://devops.christmas/ansible/</link>
+      <pubDate>Tue, 27 May 2025 16:47:04 +1000</pubDate>
+      <guid>http://devops.christmas/ansible/</guid>
+      <description>Config Management</description>
+    </item>
   </channel>
 </rss>

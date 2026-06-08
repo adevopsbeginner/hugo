@@ -16,7 +16,7 @@
       <description></description>
     </item>
     <item>
-      <title>DevOps</title>
+      <title>Devops</title>
       <link>http://devops.christmas/tags/devops/</link>
       <pubDate>Wed, 09 Jul 2025 14:31:00 +1000</pubDate>
       <guid>http://devops.christmas/tags/devops/</guid>
@@ -30,80 +30,80 @@
       <description></description>
     </item>
     <item>
-      <title>Ansible</title>
-      <link>http://devops.christmas/tags/ansible/</link>
-      <pubDate>Tue, 20 May 2025 14:30:00 +0800</pubDate>
-      <guid>http://devops.christmas/tags/ansible/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AWS</title>
-      <link>http://devops.christmas/tags/aws/</link>
-      <pubDate>Tue, 20 May 2025 14:30:00 +0800</pubDate>
-      <guid>http://devops.christmas/tags/aws/</guid>
+      <title>IaC</title>
+      <link>http://devops.christmas/tags/iac/</link>
+      <pubDate>Tue, 27 May 2025 16:47:08 +1000</pubDate>
+      <guid>http://devops.christmas/tags/iac/</guid>
       <description></description>
     </item>
     <item>
       <title>Terraform</title>
       <link>http://devops.christmas/tags/terraform/</link>
-      <pubDate>Tue, 20 May 2025 14:30:00 +0800</pubDate>
+      <pubDate>Tue, 27 May 2025 16:47:08 +1000</pubDate>
       <guid>http://devops.christmas/tags/terraform/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ansible</title>
+      <link>http://devops.christmas/tags/ansible/</link>
+      <pubDate>Tue, 27 May 2025 16:47:04 +1000</pubDate>
+      <guid>http://devops.christmas/tags/ansible/</guid>
       <description></description>
     </item>
     <item>
       <title>Automation</title>
       <link>http://devops.christmas/tags/automation/</link>
-      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 May 2025 16:47:04 +1000</pubDate>
       <guid>http://devops.christmas/tags/automation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Algorithm</title>
-      <link>http://devops.christmas/tags/algorithm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://devops.christmas/tags/algorithm/</guid>
       <description></description>
     </item>
     <item>
       <title>Config Management</title>
       <link>http://devops.christmas/tags/config-management/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 May 2025 16:47:04 +1000</pubDate>
       <guid>http://devops.christmas/tags/config-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sysadm</title>
+      <link>http://devops.christmas/tags/sysadm/</link>
+      <pubDate>Tue, 27 May 2025 16:47:04 +1000</pubDate>
+      <guid>http://devops.christmas/tags/sysadm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AWS</title>
+      <link>http://devops.christmas/tags/aws/</link>
+      <pubDate>Tue, 27 May 2025 16:46:54 +1000</pubDate>
+      <guid>http://devops.christmas/tags/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Algorithm</title>
+      <link>http://devops.christmas/tags/algorithm/</link>
+      <pubDate>Tue, 27 May 2025 16:46:47 +1000</pubDate>
+      <guid>http://devops.christmas/tags/algorithm/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Structure</title>
       <link>http://devops.christmas/tags/data-structure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 May 2025 16:46:47 +1000</pubDate>
       <guid>http://devops.christmas/tags/data-structure/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IaC</title>
-      <link>http://devops.christmas/tags/iac/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://devops.christmas/tags/iac/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
       <link>http://devops.christmas/tags/python/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 May 2025 16:46:47 +1000</pubDate>
       <guid>http://devops.christmas/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Scripting</title>
       <link>http://devops.christmas/tags/scripting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 May 2025 16:46:47 +1000</pubDate>
       <guid>http://devops.christmas/tags/scripting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sysadm</title>
-      <link>http://devops.christmas/tags/sysadm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://devops.christmas/tags/sysadm/</guid>
       <description></description>
     </item>
   </channel>

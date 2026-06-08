@@ -15,5 +15,12 @@
       <guid>http://devops.christmas/gcp/</guid>
       <description>GCP Cloud</description>
     </item>
+    <item>
+      <title>Aws</title>
+      <link>http://devops.christmas/aws/</link>
+      <pubDate>Tue, 27 May 2025 16:46:54 +1000</pubDate>
+      <guid>http://devops.christmas/aws/</guid>
+      <description>AWS cloud</description>
+    </item>
   </channel>
 </rss>
